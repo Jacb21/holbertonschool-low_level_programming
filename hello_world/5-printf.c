@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  * main - this prints only the specific text
  * Description : This was the fuction we used

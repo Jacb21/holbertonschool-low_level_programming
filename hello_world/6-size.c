@@ -1,5 +1,4 @@
-include <stdio.h>
-char
+#include <stdio.h>
 /**
  * main - print the text
  * Description : this was the fuction we used

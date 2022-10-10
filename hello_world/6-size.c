@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print the text
+ * main - Prints the text
  * Description : this was the fuction we used
  * to print the text that the excercise gave us
  * Return : 0

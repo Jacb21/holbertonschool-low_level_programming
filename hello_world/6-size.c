@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main - Prints the text
- * Description : this was the fuction we used
- * to print the text that the excercise gave us
- * Return : 0
+ * main - Prints only a text
+ * Description: This futcion print the text of
+ * Return: 0
  */
 int main(void)
 {

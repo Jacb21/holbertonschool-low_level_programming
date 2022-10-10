@@ -1,10 +1,4 @@
 #include <stdio.h>
-/**
- * main - print the text
- * Description : this was the fuction we used
- * to print the text that the excercise gave us
- * Return : 0
- */
 void main()
 {
 printf("%lu\n", sizeof(char));

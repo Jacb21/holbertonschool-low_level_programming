@@ -7,10 +7,10 @@
  */
 int main(void)
 {
-printf("%lu\n", sizeof(char));
-printf("%lu\n", sizeof(int));
-printf("%lu\n", sizeof(long int));
-printf("%lu\n", sizeof(long long));
-printf("%lu", sizeof(float);
+printf("%zu\n", sizeof(char));
+printf("%zu\n", sizeof(int));
+printf("%zu\n", sizeof(long int));
+printf("%zu\n", sizeof(long long));
+printf("%zu", sizeof(float);
 return (0);
 }

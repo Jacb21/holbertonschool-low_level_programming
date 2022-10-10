@@ -1,5 +1,5 @@
-ggc 
 include <stdio.h>
+char
 /**
  * main - print the text
  * Description : this was the fuction we used

@@ -5,7 +5,7 @@
  * to print the text that the excercise gave us
  * Return : 0
  */
-void main(int)
+void main()
 {
 printf("%lu\n", sizeof(char));
 printf("%lu\n", sizeof(int));

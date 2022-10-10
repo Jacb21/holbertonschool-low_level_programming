@@ -5,12 +5,12 @@
  * to print the text that the excercise gave us
  * Return : 0
  */
-int main(void)
+void main(int)
 {
-printf("%zu\n", sizeof(char));
-printf("%zu\n", sizeof(int));
-printf("%zu\n", sizeof(long int));
-printf("%zu\n", sizeof(long long));
-printf("%zu", sizeof(float);
+printf("%lu\n", sizeof(char));
+printf("%lu\n", sizeof(int));
+printf("%lu\n", sizeof(long int));
+printf("%lu\n", sizeof(long long));
+printf("%lu", sizeof(float);
 return (0);
 }

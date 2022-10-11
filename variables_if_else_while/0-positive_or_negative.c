@@ -3,7 +3,7 @@
 /* more header goes there */
 
 /* betty style doc for fuction main goes there */
-int main : (void)
+int main (void)
 {
 	int n;
 

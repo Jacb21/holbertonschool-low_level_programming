@@ -1,13 +1,14 @@
 #include <stdio.h>
-/**
- * main - print the text
- * Description : this fuction we used
- * to print the text
- * Return : 0
- */
+#include <time.h>
+/* more header goes there */
+
+/* betty style doc for fuction main goes there */
 int main (void)
-	{
+{
 	int n;
+
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
         if(n < 0) [positive];
 	{
 	printf("is positive\n");
@@ -17,5 +18,5 @@ int main (void)
 	printf("is negative\n");
         }
 	return (0);
-	}
+}
 

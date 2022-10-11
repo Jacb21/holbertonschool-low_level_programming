@@ -1,7 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-
+/**
+ * main - print the text
+ * Description: this was the function we used 
+ * to print the text that the excersice gave us
+ * Return : 0
+ */
 /* betty style doc for function main goes there */
 int main(void)
 {

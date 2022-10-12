@@ -13,7 +13,7 @@ int main(void)
 
 	for (n = 'a'; n <= 'z'; n--)
 	{
-		if ( n > 'a' && n < 'z')
+		if ( n > 'z' && n < 'a')
 		putchar(n);
 	}
 	putchar('\n');

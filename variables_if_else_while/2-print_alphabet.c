@@ -6,7 +6,7 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	for (int x = 'a'; x <= 'a');
+	for (int x = 'a'; x <= 'a';)
 	{
 		putchar(x);
 	}

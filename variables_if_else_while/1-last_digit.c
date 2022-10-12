@@ -2,7 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-
+/**
+	*main - print the text
+	*Description: this fuction us to print the text
+	*/
 /* betty style doc for function main goes there */
 int main(void)
 {

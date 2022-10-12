@@ -6,11 +6,9 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	for (int x = 'A'; x <= 'Z'; x++);
+	for (int x = 'a'; x <= 'a');
 	{
-
-		x = tolower(x);
-		putchar (x);
+		putchar(x);
 	}
 	return (0);
 }

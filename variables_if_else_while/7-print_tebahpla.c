@@ -11,9 +11,8 @@ int main(void)
 {
 	int n;
 
-	for (n = 'a'; n <= 'z'; n--)
+	for (n =< 'a'; n <= 'z'; n--)
 	{
-		if [n = 'z' - 'a']
 		putchar(n);
 	}
 	putchar('\n');

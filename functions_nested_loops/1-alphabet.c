@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <main.h>
 /**
 	*main - print the text
 	*Return: 0
@@ -11,7 +11,6 @@ int main(void)
 
 	for (x = 'A'; x <= 'Z'; x++)
 	{
-		void print_alphabet(void);
 		putchar(x);
 	}
 	putchar('\n');

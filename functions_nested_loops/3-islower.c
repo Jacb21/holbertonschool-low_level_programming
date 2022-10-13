@@ -2,9 +2,9 @@
 #include <time.h>
 #include "main.h"
 /**
- *_islower -
+ *_islower - print
  *@c: variable
- *Description:
+ *Description: print the ilowers
  *Return: 1, 0
  */
 int _islower(int c)

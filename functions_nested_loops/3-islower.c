@@ -2,7 +2,8 @@
 #include <time.h>
 #include "main.h"
 /**
- *_islower - 
+ *_islower -
+ *@c: variable
  *Description:
  *Return: 0
  */

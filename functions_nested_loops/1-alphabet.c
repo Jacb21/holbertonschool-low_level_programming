@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-	*main - print the text
+	*print_alphabet - print the alphabet
 	*Return: 0
 	*/
 void print_alphabet(void)

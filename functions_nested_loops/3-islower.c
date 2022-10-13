@@ -15,5 +15,4 @@ for (x = 'a'; x <= 'z'; x++)
 		return (1);
 	else
 		return (0);
-_putchar('\n');
 }

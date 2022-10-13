@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *print_alphabet - print the alphabet
- *Description: us for print the alphabet
+ *_islower - 
+ *Description:
  *Return: 0
  */
 int _islower(int c)

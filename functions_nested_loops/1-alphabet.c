@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 #include <main.h>
 /**
 	*main - print the text
 	*Return: 0
 	*/
+void print_alphabet(void)
 int main(void)
 {
 	int x;

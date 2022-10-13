@@ -10,7 +10,7 @@ int main(void)
 {
 	int p;
 
-	for (p = '_putchar')
+	for (p = "_putchar")
 	{
 		putchar(p);
 	}

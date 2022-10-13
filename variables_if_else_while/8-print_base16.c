@@ -9,7 +9,7 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-		int 0;
+		int n;
 
 		for (n = 0; n <= 'F'; n++)
 		{

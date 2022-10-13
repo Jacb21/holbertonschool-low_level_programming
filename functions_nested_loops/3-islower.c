@@ -1,4 +1,4 @@
- #include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /**
@@ -12,7 +12,10 @@ int x;
 
 for (x = 'a'; x <= 'z'; x++)
 {
-	putchar(x);
+	if (c == x)
+		return (1);
+	else
+		return (0);
 }
 putchar('\n');
 }

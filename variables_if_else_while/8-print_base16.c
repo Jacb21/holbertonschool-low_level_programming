@@ -13,7 +13,6 @@ int main(void)
 
 		for (n = 0; n <= 'F'; n++)
 		{
-			if (n = 0xn)
 			putchar(n);
 		}
 		putchar('\n');

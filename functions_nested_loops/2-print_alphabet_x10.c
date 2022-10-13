@@ -16,6 +16,7 @@ while (t < 10)
 {
 	putchar(x);
 }
+t++;
 putchar('\n');
 }
 }

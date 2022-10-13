@@ -9,10 +9,11 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-		int n;
+		int 0xn;
 
-		for (n = 0; n <= 'f'; n++)
+		for (n = 0; n <= 'F'; n++)
 		{
+			if (n = 0xn)
 			putchar(n);
 		}
 		putchar('\n');

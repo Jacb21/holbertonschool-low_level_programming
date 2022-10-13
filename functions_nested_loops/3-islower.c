@@ -11,12 +11,9 @@ int _islower(int c)
 int x;
 
 for (x = 'a'; x <= 'z'; x++)
-{
 	if (c == x)
 		return (1);
 	else
 		return (0);
-}
 _putchar('\n');
-return (x);
 }

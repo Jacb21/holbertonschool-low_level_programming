@@ -3,6 +3,7 @@
 #include <time.h>
 /**
 	*print_alphabet - print the alphabet
+	*Description: us for print the alphabet
 	*Return: 0
 	*/
 void print_alphabet(void)

@@ -10,7 +10,7 @@
 void times_table(void)
 {
 	int fila_x9;
-	int columna_x9
+	int columna_x9;
 
 	for (fila_x9 = 0; fila_x9 <= 9; fila_x9++)
 	{

@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *print_alphabet_x10 - print the alphabet x10
- *Description: us for print the alphabet 10 times
- *Return: 0
+ *_isalpha - check the alpha character
+ *Description: check 
+ *Return: 1,0
  */
 int _isalpha(int c)
 {

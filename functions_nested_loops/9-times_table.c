@@ -15,7 +15,9 @@ void times_table(void)
 	for (fila_x9 = 0; fila_x9 <= 9; fila_x9++)
 	{
 		for (columna_x9 = 0; columna_x9 <= 9; columna_x9++)
+		{
 			_putchar (fila_x9);
 			_putchar (columna_x9);
+		}
 	}
 }

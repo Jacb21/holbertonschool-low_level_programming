@@ -21,6 +21,7 @@ void times_table(void)
 			if (columna_x9 == 0)
 			{
 				_putchar (columna_x9 + '0');
+				continue;
 			}
 			_putchar (',');
 			_putchar (' ');

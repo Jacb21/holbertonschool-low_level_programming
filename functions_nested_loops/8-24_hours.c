@@ -3,18 +3,20 @@
 #include <time.h>
 #include "main.h"
 /**
-	*print_last_digit - print last digit
+	*jack_bauer - 
 	*@n: variable
 	*Description: print sign
 	*Return: 0
 	*/
 void jack_bauer(void)
 {
-	int n;
-
-	for (n >= 00:00, n <=23:59, n++)  
+	int hour;
+	int minute;
+	for (hour = 0, hour = 23, hour++)  
 	{
-		_putchar (n + '0');
+		for (minute = 0, minute = 59, minute++)
+			_putchar ('hour');
+			_putchar (':');
+			_putchar ('minute');
 	}
-		return (0);
 }

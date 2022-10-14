@@ -18,7 +18,7 @@ void times_table(void)
 		for (columna_x9 = 0; columna_x9 <= 9; columna_x9++)
 		{
 			result_x9 = fila_x9 * columna_x9;
-			_putchar (result_x9);
+			_putchar (result_x9 +'0');
 		}
 	}
 }

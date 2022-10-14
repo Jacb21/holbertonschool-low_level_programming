@@ -3,9 +3,9 @@
 #include <time.h>
 #include "main.h"
 /**
- *print_sign - check sign the character
- *@c: variable
- *Description: check
+ *print_sign - print sign 
+ *@n: variable
+ *Description: print sign
  *Return: 1,0,-1
  */
 int print_sign(int n)
@@ -23,6 +23,6 @@ int print_sign(int n)
 	else
 	{
 		_putchar ('-');
-	  return (-1);
+		return (-1);
 	}
 }

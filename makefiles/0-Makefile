@@ -1,0 +1,5 @@
+NAME = school
+CC = gcc
+
+all:
+	$(CC) -o $(NAME) main.c school.c

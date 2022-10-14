@@ -2,8 +2,9 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- *times_table - print table
- *Description: print time table
+ *print_to_98 - secuence
+ *@n: variable
+ *Description: print secunce
  *Return: 0
  */
 void print_to_98(int n)

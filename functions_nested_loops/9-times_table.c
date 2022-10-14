@@ -11,13 +11,14 @@ void times_table(void)
 {
 	int fila_x9;
 	int columna_x9;
+	int result_x9;
 
 	for (fila_x9 = 0; fila_x9 <= 9; fila_x9++)
 	{
 		for (columna_x9 = 0; columna_x9 <= 9; columna_x9++)
 		{
-			_putchar (fila_x9 + '0');
-			_putchar (columna_x9 + '0');
+			result = fila_x9 * columna_x9;
+			_putchar (result);
 		}
 	}
 }

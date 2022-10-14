@@ -4,6 +4,7 @@
 #include "main.h"
 /**
  *add - add the numbers
+ @ab: variable
  *Description: add the numbers
  *Return: 0
  */

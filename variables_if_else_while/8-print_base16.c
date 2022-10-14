@@ -11,7 +11,11 @@ int main(void)
 {
 		int n;
 
-		for (n = 0; n <= 'F'; n++)
+		for (n = 0; n <= 9; n++)
+		{
+			_putchar(n + '0');
+		}
+		for (n = 'a'; n = 'f'; n++)
 		{
 			putchar(n);
 		}

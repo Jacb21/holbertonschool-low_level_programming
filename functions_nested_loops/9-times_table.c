@@ -3,7 +3,7 @@
 #include <time.h>
 #include "main.h"
 /**
- *times table - print table
+ *times_table - print table
  *Description: print time table
  *Return: 0
  */

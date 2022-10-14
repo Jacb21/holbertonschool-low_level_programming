@@ -4,7 +4,7 @@
 #include "main.h"
 /**
  *times table - print table
- *Description: print the table
+ *Description: print time table
  *Return: 0
  */
 void times_table(void)

@@ -3,7 +3,7 @@
 #include <time.h>
 #include "main.h"
 /**
- *print_sign - print sign 
+ *print_sign - print sign
  *@n: variable
  *Description: print sign
  *Return: 1,0,-1

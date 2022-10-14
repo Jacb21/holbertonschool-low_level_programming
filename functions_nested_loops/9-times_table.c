@@ -4,7 +4,7 @@
 #include "main.h"
 /**
  *times table - print table
- *Description: print table
+ *Description: print the table
  *Return: 0
  */
 void times_table(void)
@@ -28,7 +28,7 @@ void times_table(void)
 			if (result_x9 >= 10)
 			{
 				_putchar ((result_x9 / 10) + '0');
-				_putchar ((result_x9 % 10) + '0');	
+				_putchar ((result_x9 % 10) + '0');
 			}
 			else if (result_x9 <= 9)
 			{

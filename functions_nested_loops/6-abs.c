@@ -11,7 +11,8 @@
  */
 int _abs(int n)
 {
-		/*_putchar ((n * -1) + '0');*/
-		n = n * -1;
-		return (n);
+	int x;
+	/*_putchar ((n * -1) + '0');*/
+	x = n * -1;
+	return (x);
 }

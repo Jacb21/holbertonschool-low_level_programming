@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  *_isalpha - check the alpha character
- @c: variable
+ *@c: variable
  *Description: check
  *Return: 1,0
  */

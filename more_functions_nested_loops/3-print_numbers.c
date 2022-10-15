@@ -11,5 +11,5 @@ void print_numbers(void)
 	int numbers;
 
 	if (numbers >= '0' && numbers <= '9')
-		putchar (numbers)
+		putchar (numbers);
 }

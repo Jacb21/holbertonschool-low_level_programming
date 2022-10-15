@@ -15,4 +15,5 @@ void print_most_numbers(void)
 		if ( num != 2 && num != 4)
 			putchar (num + '0');
 	}
+	putchar ('\n');
 }

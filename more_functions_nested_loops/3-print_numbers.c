@@ -8,7 +8,7 @@
 	*/
 void print_numbers(void)
 {
-	int numbers
+	int numbers;
 
 	if (numbers >= '0' && numbers <= '9')
 		_putchar (numbers)

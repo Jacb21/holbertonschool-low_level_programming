@@ -14,7 +14,12 @@ void more_numbers(void)
 		for (num = 0; num <= 14; num++)
 		{
 			putchar (num + '0');
-		}
+			if (num >= 10)
+			{
+				putchar ((num / 10) + '0');
+				putchat ((num % 10) + '0');
+			}
+		}		
 		tim++;
 		putchar('\n');
 	}

@@ -17,7 +17,7 @@ void more_numbers(void)
 			if (num >= 10)
 			{
 				putchar ((num / 10) + '0');
-				putchat ((num % 10) + '0');
+				putchar ((num % 10) + '0');
 			}
 		}		
 		tim++;

@@ -11,9 +11,9 @@ void more_numbers(void)
 	tim = 0;
 	while (tim < 10)
 	{
-		for (num1 = 0; num <= 9; num++)
+		for (num1 = 0; num1 <= 9; num1++)
 		{
-			for (num2 = 10; num2 <=14)
+			for (num2 = 10; num2 <=14; num2++)
 			{
 				if (num2 > 9)
 				putchar ((num2 / 10) + '0');

@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
-	*_isupper - check the mayus
+	* _isupper - check the mayus
 	*@c: variable
 	*
-	*Description: check the mayus
+	*Description: isupper check the mayus
 	*return: 1, 0
 	*/
 int _isupper(int c)

@@ -6,7 +6,7 @@
 	*@c: variable
 	*
 	*Description: isupper check the mayus
-	*return: 1, 0
+	*Return: 1, 0
 	*/
 int _isupper(int c)
 {

@@ -7,9 +7,7 @@
 	*/
 void more_numbers(void)
 {
-	int num1, num2, tim;
-	tim = 0;
-	while (tim < 10)
+	int num1, num2;
 	{
 		for (num1 = 0; num1 <= 9; num1++)
 		{
@@ -20,7 +18,6 @@ void more_numbers(void)
 				putchar ((num2 % 10) + '0');
 			}
 		}		
-		tim++;
 		putchar('\n');
 	}
 }

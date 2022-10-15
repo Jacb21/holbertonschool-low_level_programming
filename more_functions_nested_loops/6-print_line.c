@@ -7,8 +7,4 @@
 	*/
 void print_line(int n)
 {
-	int \_;
-	n = \_;
-	putchar (n);
-}
-
+	

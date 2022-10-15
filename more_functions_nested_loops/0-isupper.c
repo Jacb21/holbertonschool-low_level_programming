@@ -5,7 +5,7 @@
 	*@c: variable
 	*
 	*Description: check the mayus
-	*return: 1,0
+	*_isupper return: 1,0
 	*/
 
 int _isupper(int c)

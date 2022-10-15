@@ -18,7 +18,7 @@ void more_numbers(void)
 		}
 		else
 		{
-			return (num1);
+			putchar (num1);
 		}
 	}
 }

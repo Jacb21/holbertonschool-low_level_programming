@@ -2,15 +2,15 @@
 #include "main.h"
 
 /**
-	*print_square - 
-	*Description:
+	*print_square - print square
+	*Description: print the square
 	*@size: variable
 	*/
 void print_square(int size)
 {
 	int character;
 	int square;
-	
+
 	for (square = 0; square < size; square++)
 	{
 		for (character = 0; character < size; character++)

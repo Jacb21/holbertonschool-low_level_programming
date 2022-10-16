@@ -1,6 +1,7 @@
 #include <stdio.h>
  /**
-	 * main - prints the specific text
+	 * main - prints fizz_buzz
+	 * Description: prints 
 	 * Return: 0
 	 */
 int main(void)

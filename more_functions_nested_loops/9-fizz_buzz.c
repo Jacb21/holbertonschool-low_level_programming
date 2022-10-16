@@ -1,10 +1,11 @@
 #include <stdio.h>
 
- /**
-	 * main - fizz buzz
-	 * 
-	 * Return: 0
-	 */
+/**
+	* main - fizz buzz
+	*
+	* Return: 0
+	*/
+
 int main(void)
 {
 	int num;

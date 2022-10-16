@@ -2,7 +2,7 @@
 
  /**
 	 * main - fizz buzz
-	 * Description: print fizz buzz
+	 * Description: main function print fizz buzz
 	 * Return: 0
 	 */
 int main(void)

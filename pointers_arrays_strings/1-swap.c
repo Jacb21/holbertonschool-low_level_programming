@@ -4,7 +4,8 @@
 	 *swap_int - the function change the num
 	 *@a: Variable
 	 *@b: Variable
-	 *description: the function change the num
+	 *Description: the function change the num
+	 *swap_int
 	 */
 void swap_int(int *a, int *b)
 {

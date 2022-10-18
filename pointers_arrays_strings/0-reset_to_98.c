@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
-	*reset_to_98
-	*@n: Variable - the function reset to 98
+	*reset_to_98 - the function reset to 98
+	*@n: Variable
 	*Description: the function reset to 98
 	*Return: 0
 	*/

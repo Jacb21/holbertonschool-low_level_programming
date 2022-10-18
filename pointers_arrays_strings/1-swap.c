@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
  /**
-	 *swap_int - the function swap num
+	 *swap_int - the function swap_int num
 	 *@a: Variable
 	 *@b: Variable
-	 *Description: the function swap num
+	 *Description: the function swap_int num
 	 */
 void swap_int(int *a, int *b)
 {

@@ -3,7 +3,7 @@
 
 /**
 	*reset_to_98
-	*@n: Variable
+	*@n: Variable - the function reset to 98
 	*Description: the function reset to 98
 	*Return: 0
 	*/

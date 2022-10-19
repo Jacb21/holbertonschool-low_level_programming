@@ -9,8 +9,6 @@
 int _strlen(char *s)
 {
 	int log;
-
-	for (log = 0; s[log] != '\0'; log++);
-	
-	return (log);
+	for (log = 0; s[log] != '\0'; log++);	
+		return (log);
 }

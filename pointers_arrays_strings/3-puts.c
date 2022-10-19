@@ -16,4 +16,5 @@ void _puts(char *str)
 		tex++;
 	}
 	_putchar('\n');
+	return (0);
 }

@@ -10,7 +10,7 @@ int _strlen(char *s)
 {
 	int log;
 
-	for (log = 0; s[log] != '\0'; loo++);
+	for (log = 0; s[log] != '\0'; log++);
 	return (log);
 }
 
@@ -21,7 +21,7 @@ int _strlen(char *s)
 	*/
 void print_rev(char *s)
 {
-	for rev;
+	int rev;
 
 	for (rev = _strlen(s) - 1; rev >= 0; rev--)
 	{

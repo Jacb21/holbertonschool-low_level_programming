@@ -11,7 +11,7 @@ void puts2(char *str)
 	for (log = 0; str[log] != '\0'; log ++)
 	{}
 
-	for (tex = 0; str[log] != '\0'; tex += 2)
+	for (tex = 0; tex < log ; tex += 2)
 	{
 		_putchar(str[tex]);
 	}

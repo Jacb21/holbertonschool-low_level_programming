@@ -7,7 +7,7 @@
 	*@src: Variable
 	*Return:
 	*/
-char *_strcpy( *dest, char *src)
+char *_strcpy(char *dest, char *src)
 {
 	int log;
 	int tex;

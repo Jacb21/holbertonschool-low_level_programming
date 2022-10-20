@@ -9,7 +9,7 @@ void puts_half(char *str)
 {
 	int log;
 	int	tex;
-  	int n;
+	int n;
 
 	for (log = 0; str[log] != 0; log++)
 

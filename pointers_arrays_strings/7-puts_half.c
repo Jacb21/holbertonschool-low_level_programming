@@ -11,7 +11,7 @@ void puts_half(char *str)
 	int	tex;
 	int n;
 
-	for (str = 0; str[log] != '\0'; log++)
+	for (str = 0; str[log] != 0; log++)
 
 		if (log % 2 == 0)
 			n = log / 2;

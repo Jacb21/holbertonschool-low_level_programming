@@ -5,6 +5,7 @@
 	*@str: Variable
 	*Description: print the medium text
 	*/
+
 void puts_half(char *str)
 {
 	int log = 0;

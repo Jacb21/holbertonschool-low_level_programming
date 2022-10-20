@@ -6,7 +6,7 @@
 	* @src: Variable
 	*/
 
-char *strcat(char *dest, char *src)
+char *_strcat(char *dest, char *src)
 {
 	int log = 0;
 	int tex = 0;

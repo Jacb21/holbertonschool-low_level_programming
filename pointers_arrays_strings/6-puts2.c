@@ -2,7 +2,7 @@
  /**
 	 * puts2 - puts2 print the text
 	 * @str: Variable
-	 * Description: print the especific text
+	 * Description: puts2 print the especific text
 	 */
 void puts2(char *str)
 {

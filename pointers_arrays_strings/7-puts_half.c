@@ -8,7 +8,6 @@
 void puts_half(char *str)
 {
 	int log, tex, n;
-	n = (log - 1) / 2;
 
 	for (log = 0; str[log] != 0; log++)
 		

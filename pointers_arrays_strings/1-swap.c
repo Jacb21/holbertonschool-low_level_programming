@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include "main.h"
  /**
-	 *swap_int - the function change the num
-	 *Description: the function change num
+	 *swap_int - change the num
 	 *@a: Variable
 	 *@b: Variable
 	 *Description: the function change the num

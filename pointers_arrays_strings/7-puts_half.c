@@ -11,7 +11,7 @@ void puts_half(char *str)
 	int log = 0;
 	int	tex, n;
 
-	while (str[log] != 0)
+		while (str[log] != 0)
 			log++;
 
 		if (log % 2 == 0)

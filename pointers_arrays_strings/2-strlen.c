@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include "main.h"
- /**
-	 *_strlen - function a string
-	 *@s: Variable
-	 *Return: log
-	 */
+
+/**
+	* _strlen - function
+	* @s: string
+	* Return: int
+	*
+	*/
 int _strlen(char *s)
 {
 	int log;

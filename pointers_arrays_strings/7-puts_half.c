@@ -11,15 +11,15 @@ void puts_half(char *str)
 	n = (log - 1) / 2;
 
 	for (log = 0; str[log] != 0; log++)
-
-	for (tex = 0; tex > log/2; tex++)
 		
 		if (log % 2 == 0);
-		{
-			_putchar(str[tex]);
-		}
+			n = log / 2;
 		else
-		{
-			_putchar(n);
-		}
+			n = ((log - 1) / 2) + 1;
+
+	for (tex = n; tex < log; tex++)
+	{
+		_putchar(str[tex]);
+	}
+	_putchar('\n');
 }

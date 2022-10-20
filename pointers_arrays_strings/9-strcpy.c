@@ -5,7 +5,7 @@
 	**_strcpy - copy the string
 	*@dest: Variable
 	*@src: Variable
-	*Return:
+	*Return: dest
 	*/
 char *_strcpy(char *dest, char *src)
 {

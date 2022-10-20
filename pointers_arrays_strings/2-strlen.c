@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
  /**
-	 * _strlen - function a string
+	 *_strlen - function a string
 	 *@s: Variable
-	 *Return: 0
+	 *Return: variable
 	 */
 int _strlen(char *s)
 {

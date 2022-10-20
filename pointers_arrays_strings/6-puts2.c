@@ -1,10 +1,10 @@
 #include "main.h"
 
- /**
-	 * puts2 - puts2 print the text
-	 * @str: Variable
-	 * Description: puts2 print the especific text
-	 */
+/**
+	* puts2 - prints some characters
+	* @str: string
+	*
+	*/
 
 void puts2(char *str)
 {

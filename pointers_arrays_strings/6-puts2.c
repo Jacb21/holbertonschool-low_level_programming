@@ -1,6 +1,6 @@
 #include "main.h"
  /**
-	 * puts2 - print the text
+	 * puts2 - puts2 print the text
 	 * @str: Variable
 	 * Description: print the especific text
 	 */

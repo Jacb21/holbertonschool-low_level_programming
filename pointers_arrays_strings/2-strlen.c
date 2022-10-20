@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
  /**
-	 * _strlen - length of a string
+	 * _strlen - function a string
 	 *@s: Variable
 	 *Return: 0
 	 */

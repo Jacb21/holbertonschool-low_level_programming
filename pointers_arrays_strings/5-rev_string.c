@@ -21,5 +21,16 @@ int _strlen(char *s)
 	*/
 void rev_string(char *s)
 {
+	int ini;
+	int log = _strlen(s);
+	int fin = log - 1;
+	char aux;
 
-
+	for (ini = 0; ini < log / 2; ini++)
+	{
+		aux = s[ini];
+		s[ini] = s[fin];
+		s[fin] = aux;
+		fin--;
+	}
+}

@@ -16,7 +16,7 @@ char *_strcat(char *dest, char *src)
 	while (dest[log] != '\0')
 		log++;
 	
-	for (k = log; src[tex] = !0; k++, tex++);
+	for (k = log; src[tex] = '\0'; k++, tex++);
 	{
 		dest[k] = src[tex];
 	}

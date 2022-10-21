@@ -11,7 +11,6 @@
 char *_strncat(char *dest, char *src, int n)
 {
 	int log = 0;
-	int k;
 
 	while (dest[log] != '\0')
 		log++;

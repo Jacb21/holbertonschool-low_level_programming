@@ -11,7 +11,7 @@
 char *_strncat(char *dest, char *src, int n)
 {
 	int t = 0;
-	int k;
+	int log, k;
 
 	n--;
 

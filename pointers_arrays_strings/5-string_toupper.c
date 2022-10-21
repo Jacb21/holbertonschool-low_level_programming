@@ -2,7 +2,8 @@
 
 /**
 	* *string_toupper - function change the letters to uppercase
-	* @
+	* @m: Variable
+	* Return: m
 	*/
 char *string_toupper(char *m)
 {

@@ -11,8 +11,11 @@ char *string_toupper(char *m)
 	for (m = 0; m[t] != '\0'; m++)
 
 	{
-		if (m >= 'a' && m <= 'z')
+		if (m[t] >= 'a' && m[t] <= 'z')
+		{
 			m[t] -= 32;
+		}
+		t++;
 	}
 	return (m);
 }

@@ -1,12 +1,12 @@
 #include "main.h"
 
- /**
-	 * *_strncpy - function copy the string
-	 * @dest: Variable
-	 * @src: Variable
-	 * @n: Variable
-	 * Return: dest
-	 */
+/**
+	* *_strncpy - function copy the string
+	* @dest: Variable
+	* @src: Variable
+	* @n: Variable
+	* Return: dest
+	*/
 
 char *_strncpy(char *dest, char *src, int n)
 {

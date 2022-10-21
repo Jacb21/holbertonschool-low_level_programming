@@ -4,7 +4,7 @@
 	* *string_toupper - function change the letters to uppercase
 	* @
 	*/
-char *string_toupper(char *m);
+char *string_toupper(char *m)
 {
 	int t = 0;
 

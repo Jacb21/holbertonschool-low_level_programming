@@ -13,7 +13,6 @@ char *_strcpy(char *dest, char *src)
 	int t;
 
 	for (log = 0; src[log] != '\0'; log++)
-	{}
 
 	for (t = 0; t <= log; t++)
 	{

@@ -1,5 +1,5 @@
 #include "main.h"
- 
+
 /**
 	 * *_memset - function fills memory with a constant byte
 	 * @s: Puntero

@@ -16,6 +16,7 @@ char *_strcpy(char *dest, char *src)
 	{
 		log++;
 	}
+
 	for (tex = 0; tex <= log; tex++)
 	{
 		dest[tex] = src[tex];

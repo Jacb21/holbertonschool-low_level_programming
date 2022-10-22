@@ -10,16 +10,16 @@
 char *_strcpy(char *dest, char *src)
 {
 	int log = 0;
-	int tex;
+	int t;
 
 	while (src[log] != '\0')
 	{
 		log++;
 	}
 
-	for (tex = 0; tex <= log; tex++)
+	for (t = 0; t <= log; t++)
 	{
-		dest[tex] = src[tex];
+		dest[t] = src[t];
 	}
 	return (dest);
 }

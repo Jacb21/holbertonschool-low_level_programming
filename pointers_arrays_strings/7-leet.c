@@ -8,23 +8,22 @@
 
 char *leet(char *e)
 {
-	int t;
-	int w = 0;
+	int t, w;
 	char l[] = {'a', 'A', 'e', 'E', 'o', 'O', 't', 'T', 'l', 'L', '\0'};
 	char n[] = {'4', '4', '3', '3', '0', '0', '7', '7', '1', '1', '\0'};
 
 	while (e[t] != '\0')
 	{
-		t = 0;
+		w = 0;
 		while (l[w] != '\0')
 		{
-			if (e[t] == l[t])
+			if (e[t] == l[w])
 			{
 				e[t] = n[w];
 			}
-			t++;
+			w++;
 		}
-		w++;
+		t++;
 	}
 	return (e);
 }

@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -7,6 +6,7 @@
 	*@src: Variable
 	*Return: dest
 	*/
+
 char *_strcpy(char *dest, char *src)
 {
 	int log = 0;
